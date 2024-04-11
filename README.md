@@ -3,6 +3,6 @@
 
 
 - 🔭 I am a Ph.D candidate majoring in computer vision and machine learning
-- 💌 Email &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : namhj28@gmail.com
-- 🌐 Site &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: https://hygenie1228.github.io
-- 🏫 Education&nbsp; : Seoul National Univ. - Electrical & Computer Engineering
+- 💌 Email: namhj28@gmail.com
+- 🌐 Site: https://hygenie1228.github.io
+- 🏫 Education: Seoul National Univ. - Electrical & Computer Engineering
